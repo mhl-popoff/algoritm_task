@@ -1,0 +1,13 @@
+12
+Ivanov 5 1.76
+Petrov 4 1.53
+Sidorov 6 1.75
+Andreev 12 1.77
+Fedorov 1 1.78
+Vasiliev 2 1.74
+Nikolaev 11 1.79
+Mihailov 9 1.74
+Magomedov 8 1.80
+Nikitin 10 1.73
+Pavlov 7 1.72
+Grigoriev 3 1.81

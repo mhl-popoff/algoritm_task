@@ -1,0 +1,9 @@
+4
+Ivanov
+4.8
+Petrov
+3.5
+Sidorov
+4.1
+Smirniv
+4.3

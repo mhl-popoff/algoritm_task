@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\подсветка_синтаксиса\подсветка_синтаксиса\source.cpp(27): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Подсветка_синтаксиса.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Подсветка_синтаксиса\Debug\Подсветка_синтаксиса.exe
+  Подсветка_синтаксиса.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Подсветка_синтаксиса\Debug\Подсветка_синтаксиса.pdb (Partial PDB)

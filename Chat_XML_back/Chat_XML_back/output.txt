@@ -1,0 +1,39 @@
+<abonents>
+	<abonent>
+		<id>1</id>
+		<rank>Lieutenant</rank>
+		<name>Sidorov</name>
+	</abonent>
+	<abonent>
+		<id>2</id>
+		<rank>Soldier</rank>
+		<name>Ivanov</name>
+	</abonent>
+	<abonent>
+		<id>3</id>
+		<rank>Sergeant</rank>
+		<name>Petrov</name>
+	</abonent>
+</abonents>
+<messages>
+	<message>
+		<sender>1</sender>
+		<time>2021-04-19 14:15</time>
+		<text>Hello, comrades!</text>
+	</message>
+	<message>
+		<sender>2</sender>
+		<time>2021-04-19 14:32</time>
+		<text>Hello. Comrade Lieutenant!</text>
+	</message>
+	<message>
+		<sender>1</sender>
+		<time>2021-04-19 14:35</time>
+		<text>How are you?</text>
+	</message>
+	<message>
+		<sender>3</sender>
+		<time>2021-04-19 14:36</time>
+		<text>We are on the trainings.</text>
+	</message>
+</messages>

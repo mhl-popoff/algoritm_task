@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\delete_html\delete_html\source.cpp(33): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\omvpopov\documents\visual studio 2015\projects\delete_html\delete_html\source.cpp(34): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\omvpopov\documents\visual studio 2015\projects\delete_html\delete_html\source.cpp(35): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\omvpopov\documents\visual studio 2015\projects\delete_html\delete_html\source.cpp(18): warning C4101: flag_0: неиспользованная локальная переменная
+  Delete_HTML.vcxproj -> C:\Users\OMVPopov\documents\visual studio 2015\Projects\Delete_HTML\Debug\Delete_HTML.exe
+  Delete_HTML.vcxproj -> C:\Users\OMVPopov\documents\visual studio 2015\Projects\Delete_HTML\Debug\Delete_HTML.pdb (Partial PDB)

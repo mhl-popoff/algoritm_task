@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\задача_а\задача_а\source.cpp(7): warning C4101: j: неиспользованная локальная переменная
+c:\users\omvpopov\documents\visual studio 2015\projects\задача_а\задача_а\source.cpp(7): warning C4101: i: неиспользованная локальная переменная
+  Задача_А.vcxproj -> c:\users\omvpopov\documents\visual studio 2015\Projects\Задача_А\Debug\Задача_А.exe
+  Задача_А.vcxproj -> c:\users\omvpopov\documents\visual studio 2015\Projects\Задача_А\Debug\Задача_А.pdb (Partial PDB)

@@ -1,0 +1,18 @@
+Petrov 10
+Ivanov 1
+Sidorov 5
+Samsonov 8
+Matveev 4
+12
+1 Ivanov Ivan 1978
+2 Petrov Petr 1978
+3 Ivanov Ivan 1979
+4 Sidorov Sidr 1978
+5 Petrov Petr 1978
+6 Ivanov Ivan 1979
+7 Sergeev Sergey 1980
+8 Petrov Petr 1978
+9 Sergeev Stepan 1980
+10 Ivanov Ilia 1978
+11 Stepanov Stepan 1980
+12 Vasiliev Vasily 1980

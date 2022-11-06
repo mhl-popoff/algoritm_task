@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(65): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\биржевые заявки\биржевые заявки\source.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+  Биржевые заявки.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Биржевые заявки\Debug\Биржевые заявки.exe
+  Биржевые заявки.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Биржевые заявки\Debug\Биржевые заявки.pdb (Partial PDB)

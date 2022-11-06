@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\задача_d\задача_d\source.cpp(13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Задача_D.vcxproj -> c:\users\omvpopov\documents\visual studio 2015\Projects\Задача_D\Debug\Задача_D.exe
+  Задача_D.vcxproj -> c:\users\omvpopov\documents\visual studio 2015\Projects\Задача_D\Debug\Задача_D.pdb (Partial PDB)

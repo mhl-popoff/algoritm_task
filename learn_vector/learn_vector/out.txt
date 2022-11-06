@@ -1,0 +1,8 @@
+3 Petrov
+5 Ivanov
+7 Sidorov
+11 Anreev
+11 Anreev
+5 Ivanov
+3 Petrov
+7 Sidorov

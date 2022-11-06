@@ -1,0 +1,7 @@
+<b>int</b> forever
+=
+10;<br>
+<b>for</b>(<b>int</b> i = 0; i < 3; i++)<br>
+	forever--;<br>
+<b>while</b> (forever > 0)<br>
+	printf(<i>"%s</i>",<i>"it is float value"</i>)<br>

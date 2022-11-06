@@ -1,0 +1,5 @@
+int forever = 10;
+ for(int i = 0; i < 3; i++)
+ 	forever--;
+ while (forever > 0)
+ 	printf("%s","it is float value")

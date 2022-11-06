@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\omvpopov\documents\visual studio 2015\projects\prapor\prapor\source.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  Prapor.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Prapor\Debug\Prapor.exe
+  Prapor.vcxproj -> C:\Users\OMVPopov\Documents\Visual Studio 2015\Projects\Prapor\Debug\Prapor.pdb (Partial PDB)
